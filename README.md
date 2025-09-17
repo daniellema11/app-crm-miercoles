@@ -63,13 +63,6 @@ app-crm-miercoles/
 - **Teléfono**: Formato válido
 - **Género**: Selección obligatoria
 
-## 🤝 Contribuir
-
-1. Fork del proyecto
-2. Crear una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit de tus cambios (`git commit -m 'Agregar nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abrir un Pull Request
 
 
 ## 👨‍💻 Autor
