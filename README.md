@@ -72,10 +72,6 @@ app-crm-miercoles/
 5. Abrir un Pull Request
 
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
 ## 👨‍💻 Autor
 
 **Tu Nombre**
