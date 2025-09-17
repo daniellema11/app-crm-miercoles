@@ -11,7 +11,7 @@
  }
 
  body::before {
-     content: '✦ ◈ ❋ ✧ ◆ ★ ◊ ❈ ◇ ✦ ◈ ❋ ✧ ◆ ★ ◊ ❈ ◇ ✦ ◈ ❋ ✧ ◆ ★ ◊ ❈ ◇';
+     content: '✦ ◈ ❋ ✧ ◆DANIELLEMA ★ ◊ ❈ ◇ ✦ ◈ ❋ ✧ ◆ ★ ◊ ❈ ◇ ✦ ◈ ❋ ✧ ◆ ★ ◊ ❈ ◇';
      position: absolute;
      top: 20%;
      left: -100%;
@@ -23,7 +23,7 @@
  }
 
  body::after {
-     content: '◦ ◯ ◈ ◐ ◑ ◒ ◓ ◔ ◕ ◖ ◗ ◦ ◯ ◈ ◐ ◑ ◒ ◓ ◔ ◕ ◖ ◗ ◦ ◯ ◈ ◐ ◑';
+     content: '◦ ◯ ◈ ◐ ◑ ◒ ◓ ◔ DANIELLEMA◕ ◖ ◗ ◦ ◯ ◈ ◐ ◑ ◒ ◓ ◔ ◕ ◖ ◗ ◦ ◯ ◈ ◐ ◑';
      position: absolute;
      top: 70%;
      left: -100%;
