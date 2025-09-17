@@ -79,8 +79,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@jaimezzapata](https://github.com/jaimezzapata)
-- Email: tu.email@ejemplo.com
+- GitHub: [jaimezzapata](https://github.com/jaimezzapata)
 
 ## 🙏 Agradecimientos
 
