@@ -77,13 +77,6 @@ app-crm-miercoles/
 **Tu Nombre**
 - GitHub: [jaimezzapata](https://github.com/jaimezzapata)
 
-## 🙏 Agradecimientos
-
-- A los profesores del CESDE por su orientación
-- A la comunidad de JavaScript por los recursos
-- A SweetAlert por la excelente biblioteca de alertas
-
----
 
 ⭐ Si te gusta este proyecto, ¡no olvides darle una estrella!
 
